@@ -1,0 +1,4 @@
+just a copy and writing test to see if iam doing everything right 
+on using
+git and github 
+etc
